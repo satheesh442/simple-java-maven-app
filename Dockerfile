@@ -1,4 +1,4 @@
-FROM  docker pull kalranitin/centos72-jre8
+FROM kalranitin/centos72-jre8
 
 MAINTAINER Satheesh B "satheesh442@gmail.com"
 
