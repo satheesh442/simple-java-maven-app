@@ -14,4 +14,3 @@ ENV JAVA_OPTS="-XX:MinHeapFreeRatio=30 -XX:MaxHeapFreeRatio=50"
 COPY target/my-app*.jar my-app.jar
 
 CMD ["java", "-jar", "my-app.jar"]
-
